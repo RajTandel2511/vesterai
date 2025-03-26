@@ -87,8 +87,6 @@ VesterAI/
    streamlit run app.py
    ```
 
-   ```
-
 ---
 
 ## 📺 Demo Videos
