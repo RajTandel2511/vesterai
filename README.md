@@ -86,10 +86,20 @@ VesterAI/
    cd streamlit_app
    streamlit run app.py
    ```
+5. SSH tunnel if on HPC:
+   ```bash
+   ssh -L 8501:localhost:8501 user@hpc.cluster.edu
+   ```
 
 ---
 
 ## 📺 Demo Videos
+You can watch the project demonstration directly below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJuhyeQBRO0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSBXRswd3lY" frameborder="0" allowfullscreen></iframe>
+
 - [VesterAI Chatbot Demo (Part 1)](https://www.youtube.com/watch?v=cJuhyeQBRO0)
 - [VesterAI Dashboard & Architecture (Part 2)](https://www.youtube.com/watch?v=QSBXRswd3lY)
 
@@ -114,8 +124,9 @@ Please cite or credit this repository if you build upon this work.
 ---
 
 ## 📬 Contact
-For questions or collaboration: rajt8@domain.edu
+For questions or collaboration: tandel.r@northeastern.edu
 
 ---
 
 Thank you for checking out VesterAI!
+
