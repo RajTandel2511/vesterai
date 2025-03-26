@@ -1,1 +1,14 @@
-# Add project dependencies here
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+sentencepiece
+streamlit
+joblib
