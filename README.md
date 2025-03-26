@@ -95,11 +95,13 @@ VesterAI/
 
 Click below to watch the demos:
 
+## VesterAI Dashboard & Architecture
+
 [![VesterAI Chatbot Demo](https://img.youtube.com/vi/cJuhyeQBRO0/0.jpg)](https://www.youtube.com/watch?v=cJuhyeQBRO0)
-*VesterAI Chatbot Demo (Part 1)*
+
+## VesterAI Chatbot Demo
 
 [![VesterAI Dashboard & Architecture](https://img.youtube.com/vi/QSBXRswd3lY/0.jpg)](https://www.youtube.com/watch?v=QSBXRswd3lY)
-*VesterAI Dashboard & Architecture (Part 2)*
 
 ---
 
